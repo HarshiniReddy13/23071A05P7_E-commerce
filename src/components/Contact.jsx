@@ -7,6 +7,9 @@ const Contact = () => {
             <p>Email: support@ecommerce.com</p>
             <p>Phone: +1 234 567 8901</p>
             <p>Feel free to reach out to us with any queries you have or drop a feedback so we can improve our service!</p>
+            <div className="footer">
+                23071A05P7
+            </div>
         </div>
     );
 };

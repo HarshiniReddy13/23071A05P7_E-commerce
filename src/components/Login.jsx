@@ -25,6 +25,9 @@ const Login = () => {
             <input className="inp" name="username" placeholder="Username" onChange={handleChange} />
             <input className="inp" name="password" placeholder="Password" type="password" onChange={handleChange} />
             <button type="submit">Login</button>
+            <div className="footer">
+                23071A05P7
+            </div>
         </form>
     );
 };

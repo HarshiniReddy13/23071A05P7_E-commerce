@@ -30,6 +30,9 @@ const Catalogue = () => {
                     </div>
                 ))}
             </div>
+            <div className="footer">
+                23071A05P7
+            </div>
         </div>
     );
 };

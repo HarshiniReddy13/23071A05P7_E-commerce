@@ -79,6 +79,9 @@ const Payment = () => {
                     Proceed to Pay
                 </button>
             </form>
+            <div className="footer">
+                23071A05P7
+            </div>
         </div>
     );
 };

@@ -22,6 +22,9 @@ const Cart = () => {
             ) : (
                 <p>No items added yet.</p>
             )}
+            <div className="footer">
+                23071A05P7
+            </div>
         </div>
     );
 };
